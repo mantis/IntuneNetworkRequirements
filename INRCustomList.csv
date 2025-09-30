@@ -238,3 +238,6 @@
 "licensing.mp.microsoft.com", 443, TCP, 9996
 "licensing.mp.microsoft.com", 80, TCP, 9996
 "time.windows.com", 123, UDP, 165
+"app-site-association.cdn-apple.com", 443, TCP, 9979
+"app-site-association.networking.apple", 443, TCP, 9979
+"sts.windows.net", 443, TCP, 9979
